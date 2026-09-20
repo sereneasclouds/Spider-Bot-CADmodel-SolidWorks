@@ -1,6 +1,6 @@
 # Spider-Bot – SolidWorks CAD Model
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains the mechanical CAD model of a **Spider-Bot** developed using **SolidWorks**. The project focuses on the 3D modelling and mechanical design of a multi-legged robotic structure, including the main body, leg components, connecting links, and motor-related components.
 
@@ -8,7 +8,7 @@ The individual components have been designed and exported in **STEP (.step)** fo
 
 ---
 
-## 🎯 Project Purpose
+##  Project Purpose
 
 The purpose of this project is to design and develop the mechanical structure of a **Spider-Bot** using 3D CAD modelling techniques.
 
@@ -23,14 +23,13 @@ The design focuses on:
 
 ---
 
-## 🛠️ Software Used
+##  Software Used
 
 - **SolidWorks** – 3D CAD modelling and mechanical design
-- **STEP (.step)** – CAD file exchange format
 
 ---
 
-## 🤖 Design Features
+##  Design Features
 
 The Spider-Bot CAD model includes:
 
@@ -46,7 +45,7 @@ The Spider-Bot CAD model includes:
 
 ---
 
-## 📂 CAD Components
+##  CAD Components
 
 The repository contains the following CAD components:
 
@@ -63,7 +62,7 @@ The repository contains the following CAD components:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 Spider-Bot_model_SolidWorks/
