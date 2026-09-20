@@ -14,8 +14,6 @@ I am particularly interested in **robotics simulation, ROS 2, and the developmen
 
 I hope this project can also be a starting point for collaboration. If you are interested in **ROS 2, Gazebo, RViz, robot simulation, mechanical design, or robotics projects**, feel free to reach out. I would be happy to connect and work together on interesting robotics simulation projects.
 
-**Robotics is the future, and I am excited to keep learning, building, and exploring it. **
-
 The design focuses on:
 
 - Designing the main robot body structure
@@ -28,7 +26,7 @@ The design focuses on:
 ## Software Used
 
 - **SolidWorks** – 3D CAD modelling and mechanical design
-- **STEP (.step)** – CAD file exchange format
+
 
 ## My Design
 
@@ -42,7 +40,6 @@ The Spider-Bot I created consists of several interconnected mechanical component
 - Middle connecting links
 - Supporting mechanical elements
 
-The components were designed as individual parts to allow flexibility during assembly and future modifications.
 
 ## CAD Components
 
@@ -80,31 +77,3 @@ The Spider-Bot design can be further developed for:
 - Manufacturing
 - Integration of motors and actuators
 - Electronics and control systems
-
-## Future Development
-
-As a next stage, I can further develop the Spider-Bot by:
-
-- Completing the mechanical assembly
-- Integrating motors and actuators
-- Performing motion simulation
-- Conducting structural and stress analysis
-- Optimizing the mechanical design
-- Fabricating the components
-- Integrating sensors and electronics
-- Developing a control system
-- Implementing autonomous movement
-
-## Project Status
-
-**Status: CAD Model Developed**
-
-The current repository contains the mechanical components/STEP files of the Spider-Bot that I designed. The project can be further developed through assembly, simulation, fabrication and electronic integration.
-
-## Author
-
-**Sereneasclouds**
-
-## License
-
-This project is intended for educational, academic, and personal engineering development purposes.
