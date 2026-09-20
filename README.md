@@ -14,7 +14,7 @@ I am particularly interested in **robotics simulation, ROS 2, and the developmen
 
 I hope this project can also be a starting point for collaboration. If you are interested in **ROS 2, Gazebo, RViz, robot simulation, mechanical design, or robotics projects**, feel free to reach out. I would be happy to connect and work together on interesting robotics simulation projects.
 
-**Robotics is the future, and I am excited to keep learning, building and exploring it. **
+**Robotics is the future, and I am excited to keep learning, building, and exploring it. **
 
 The design focuses on:
 
@@ -99,7 +99,7 @@ As a next stage, I can further develop the Spider-Bot by:
 
 **Status: CAD Model Developed**
 
-The current repository contains the mechanical components and STEP files of the Spider-Bot that I designed. The project can be further developed through assembly, simulation, fabrication, and electronic integration.
+The current repository contains the mechanical components/STEP files of the Spider-Bot that I designed. The project can be further developed through assembly, simulation, fabrication and electronic integration.
 
 ## Author
 
